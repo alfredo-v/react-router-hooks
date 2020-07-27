@@ -1,0 +1,20 @@
+
+.nav {
+    font-size: 16px;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    width: 75px;
+    text-align: center;
+}
+
+.nav-button {
+    display: inline-block;
+    background-color: darkolivegreen;
+    color: #FFF;
+    text-decoration: none;
+    padding: 10px 10px;
+    margin: 5px 5px;
+}
